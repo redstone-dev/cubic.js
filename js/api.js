@@ -1,0 +1,3 @@
+function pi(){
+  math.PI();
+}
